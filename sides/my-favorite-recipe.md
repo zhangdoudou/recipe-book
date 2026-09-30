@@ -6,6 +6,7 @@
 - Green peppers
 - Ginger and garlic
 - Dried chili peppers
+- Star anise
 - Soy sauce
 - Cooking wine
 - Salt and sugar
